@@ -7,17 +7,17 @@ website:
   search: 
     location: navbar
     type: overlay
-  description: "Personal blog as test script"
+  description: "Ned Travel blog"
   favicon: themockup.png
   navbar:
     left:
-      - text: Stock analysis
+      - text: Articles #about the travel 
         href: index.qmd
-      - text: General analysis
+      - text: Countries world map
         href: general.qmd
-      - text: Ned Portfolio
+      - text: World map with places
         href: portfolio.qmd
-      - text: Dividend income
+      - text: Others
         href: dividend.qmd
       
     right: 
@@ -30,12 +30,14 @@ website:
         
 format:
   html:
-    theme: 
-       - html/my-laterra.scss
+    theme: ocean
     css: 
        - html/style.scs
     code-link: true
     fontsize: 1em
     
 editor: visual 
-
+comments: 
+    hypothesis:
+      theme: clean
+      openSidebar: false
