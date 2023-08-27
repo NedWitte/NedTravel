@@ -3,12 +3,13 @@ title: "1st in Portugal"
 description: "First trip to Portugal in 2020"
 author: "JNW"
 date: "2020"
-image: Mallorca1.png
+image: pt1.JPG
 ---
 
-**Mallorca**
+**Portugal 2020 (also known as shark season)**
 
-As a kid, I was once in Mallorca. I do not have much memory about it.
+First step was driving to Hamburg via train. We took a night flight from Hamburg airport to Porto before taking a Renault Clio as a rental car. Back in 2020, there was still the possiblity to get cheap rental cars in September. We paid roughly 210 Euros for two weeks.
 
-![Mallorca](Mallorca2.png){: style="width: 20%; height: 50%;"}
+![Peniche](pt1.JPG)
 
+![Obidos sunset in September 2020](sunsetobidos.JPG){fig-alt="Summer obidos" width="500"}

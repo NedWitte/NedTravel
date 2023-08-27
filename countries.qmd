@@ -1,0 +1,20 @@
+---
+title: "Projects"
+
+page-layout: full
+title-block-banner: true
+page-navigation: true
+---
+
+This is the site for general stuff like SP500, Nasdaq....etc
+
+#### General analysis listed here:
+
+
+Learn more about Quarto [here](https://www.quarto.com).
+
+<iframe src="https://giphy.com/embed/z6ccg9ZZzWT2E" width="480" height="196" frameBorder="0" class="giphy-embed" allowFullScreen>
+
+</iframe>
+
+<p>

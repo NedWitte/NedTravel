@@ -4,6 +4,7 @@ project:
   
 website:
   title: "" # keep empty
+  site-url: "https://NedWitte_Travel.com/"
   search: 
     location: navbar
     type: overlay
@@ -14,14 +15,17 @@ website:
       - text: Articles #about the travel 
         href: index.qmd
       - text: Countries world map
-        href: general.qmd
+        href: countries.qmd
       - text: World map with places
-        href: portfolio.qmd
-      - text: Others
-        href: dividend.qmd
+        href: worldmap.qmd
       
     right: 
-      - about/about.qmd
+      - text: About
+        menu: 
+          - text: Ned 
+            href: about/Ned.qmd
+          - text: ArrozcomNilius
+            href: about/Nilius.qmd
       - icon: github
         href: https://github.com/NedWitte/ #will be changed
         
@@ -37,7 +41,4 @@ format:
     fontsize: 1em
     
 editor: visual 
-comments: 
-    hypothesis:
-      theme: clean
-      openSidebar: false
+
