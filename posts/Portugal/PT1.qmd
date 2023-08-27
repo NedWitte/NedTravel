@@ -1,0 +1,14 @@
+---
+title: "1st in Portugal"
+description: "First trip to Portugal in 2020"
+author: "JNW"
+date: "2020"
+image: Mallorca1.png
+---
+
+**Mallorca**
+
+As a kid, I was once in Mallorca. I do not have much memory about it.
+
+![Mallorca](Mallorca2.png){: style="width: 20%; height: 50%;"}
+
