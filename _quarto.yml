@@ -14,10 +14,12 @@ website:
     left:
       - text: Articles #about the travel 
         href: index.qmd
+      - text: Random maps library
+        href: random_maps_library.qmd
       - text: Countries world map
         href: countries.qmd
       - text: World map with places
-        href: worldmap.qmd
+        href: worldmapplaces.qmd
       
     right: 
       - text: About

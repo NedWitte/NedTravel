@@ -2,9 +2,17 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/Portugal/PT1.html",
-      "/posts/UK1/apple.html",
-      "/posts/Mallorcakid/mallorcakid.html"
+      "/posts/PT1/PT1.html",
+      "/posts/Mallorcakid/mallorcakid.html",
+      "/posts/UK1/UK1.html"
+    ]
+  },
+  {
+    "listing": "/random_maps_library.html",
+    "items": [
+      "/random_data_library/First visualization_Georgia/First visualization_Georgia.html",
+      "/random_data_library/Germany_map_SHP/Germany_map.html",
+      "/random_data_library/RD_per_million/RD_per_million.html"
     ]
   }
 ]

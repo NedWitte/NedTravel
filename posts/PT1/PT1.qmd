@@ -1,0 +1,169 @@
+---
+title: "1st in Portugal"
+description: "First trip to Portugal in 2020"
+author: "JNW"
+date: "2020"
+image: pt1.JPG
+format: html
+---
+
+**Portugal 2020 (also known as shark season)**
+
+First step was driving to Hamburg via train. We took a night flight from Hamburg airport to Porto before taking a Renault Clio as a rental car. Back in 2020, there was still the possiblity to get cheap rental cars in September. We paid roughly 210 Euros for two weeks.
+
+![Peniche](pt1.JPG)
+
+![Obidos sunset in September 2020](sunsetobidos.JPG){fig-alt="Summer obidos" width="500"}
+
+```{r}
+#| echo: false
+#| output: false
+#| include: false
+
+#install.packages("sf")
+#load packages
+library(tidyverse)     # ggplot, dplyr, and friends
+library(jsonlite)      # Read JSON files
+library(sf)            # Handle spatial data in a tidy way
+library(tigris)        # Access deographic data from the US Census
+library(ggrepel)       # Nicer non-overlapping labels
+library(glue)          # Easier string interpolation
+library(scales)        # Nicer labeling functions
+library(patchwork)     # Combine plots nicely
+library(ggspatial)     # Nicer map features like scale bars
+library(leaflet)       # Make interactive maps
+library(lutz)          # Look up time zones for lat/lon coordinates
+library(gt)            # Make fancy tables
+library(rcartocolor)   # Use CARTO colors (https://carto.com/carto-colors/)
+library(ggnewscale)    # Use multiple scales for the same aesthetic in ggplot
+
+# Custom ggplot themes to make pretty plots
+# Get the font at https://fonts.google.com/specimen/Overpass
+theme_roadtrip <- function() {
+  theme_minimal(base_family = "Overpass Light") +
+    theme(panel.grid.minor = element_blank(),
+      plot.title = element_text(family = "Overpass", face = "bold"),
+      axis.title = element_text(family = "Overpass Medium"),
+      axis.title.x = element_text(hjust = 0),
+      axis.title.y = element_text(hjust = 1),
+      strip.text = element_text(
+        family = "Overpass ExtraBold", face = "plain",
+        size = rel(1), hjust = 0),
+      strip.background = element_rect(fill = "grey90", color = NA))
+}
+
+theme_roadtrip_map <- function() {
+  theme_void(base_family = "Overpass Light") +
+    theme(
+      plot.title = element_text(family = "Overpass", face = "bold", hjust = 0.5),
+      strip.text = element_text(
+        family = "Overpass ExtraBold", face = "plain",
+        size = rel(1.1), hjust = 0.5)
+    )
+}
+
+# Make labels use Overpass by default
+update_geom_defaults("label_repel", 
+                     list(family = "Overpass",
+                          fontface = "plain"))
+update_geom_defaults("label", 
+                     list(family = "Overpass",
+                          fontface = "plain"))
+
+update_geom_defaults("text_repel", 
+                     list(family = "Overpass",
+                          fontface = "plain"))
+update_geom_defaults("text", 
+                     list(family = "Overpass",
+                          fontface = "plain"))
+
+# CARTO Prism palette
+# https://carto.com/carto-colors/
+clrs <- rcartocolor::carto_pal(name = "Prism")
+
+```
+
+```{r}
+
+#| echo: false
+#| output: false
+#| include: false
+#| 
+m <- leaflet() %>%
+  addTiles() %>%
+  setView(lng = 0, lat = 51, zoom = 4)%>%
+  addMarkers(lng = -8, lat = 39.5, popup = "Portugal")
+
+```
+
+```{r}
+m
+```
+
+```{r}
+#| echo: false
+#| output: false
+#| include: false
+
+
+us_states <- states(resolution = "20m", year = 2022, cb = TRUE)
+
+lower_48 <- us_states %>% 
+  filter(!(NAME %in% c("Alaska", "Hawaii", "Puerto Rico")))
+
+
+#' Format difftime in minutes and hours
+#'
+#' This function takes a difftime input \code{x} and formats the result as a 
+#' string indicating the number of hours and minutes in the duration.
+#'
+#' @param x A difftime input.
+#' @return A character vector of formatted duration strings.
+#' @examples
+#' x <- as.difftime(c(93, 1007, 3056), units = "secs")
+#' fmt_duration(x)
+fmt_difftime <- function(x) {
+  n_seconds <- seconds(as.double(x, units = "secs"))
+  n_seconds <- seconds_to_period(n_seconds)
+  
+  out <- map_chr(n_seconds, \(n) {
+    if (as.numeric(n) < 3600) {
+      # If this is less than an hour, don't format anything with hours
+      glue::glue("{MM} minutes", MM = minute(n))
+    } else {
+      # I only want to format this as a number of hours. If the duration is
+      # longer than 24 hours, seconds_to_period() rolls over into days (i.e.
+      # seconds_to_period(60 * 60 * 24) returns "1d 0H 0M 0S"), and it shows
+      # zero hours. So we extract the day part of the period, multiply it by 24,
+      # and add it to the hour component that we want to display
+      extra_day_hours <- day(n) * 24
+      
+      glue::glue("{HH} hour{s} {MM} minutes",
+        HH = scales::label_comma()(hour(n) + extra_day_hours),
+        MM = minute(n),
+        s = ifelse(hour(n) == 1, "", "s")
+      )
+    }
+  })
+  
+  return(out)
+}
+
+fmt_miles <- scales::label_number(accuracy = 10, suffix = " miles", big.mark = ",")
+
+miles_to_meters <- function(x) {
+  x * 1609.344
+}
+
+meters_to_miles <- function(x) {
+  x / 1609.344
+}
+
+meters_to_feet <- function(x) {
+  x * 3.28084
+}
+
+km_to_miles <- function(x) {
+  meters_to_miles(x * 1000)
+}
+```

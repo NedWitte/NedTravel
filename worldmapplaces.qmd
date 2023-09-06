@@ -1,0 +1,92 @@
+---
+title: "A view on the cities that I already visited"
+author: "JNW"
+description: "View"
+date: "2023-08-10"
+---
+
+Now this is a leaflet of major cities that I visited:
+
+```{r}
+#| echo: false
+#| output: false
+#| include: false
+library(WDI)
+library(tidyverse)
+library(sf)
+library(wbstats)
+library(leaflet)
+
+# Display the map
+# Create a leaflet map centered around Germany
+world_map <- leaflet() %>%
+  setView(lng = 10.4515, lat = 51.1657, zoom = 1) %>%
+  addTiles()  # Add the default OpenStreetMap tiles
+
+#define cities
+city_names <- c("Berlin", "Hannover", "Freiburg", "Porto", "Braga", #add 5 per row for order
+                "Boston", "New York", "Barcelona", "Palma de Mallorca", "London", 
+                "Köln", "Strasbourg", "Hamburg", "Düsseldorf", "Warsaw",
+                "Verona", "Como", "Venice", "Frankfurt", "Mannheim",
+                "Prague", "Chemnitz", "Dresden", "Wroclaw", "Krakow",
+                "Reading", "Portsmouth", "Springfield", "Bremen", "Eindhoven",
+                "Utrecht", "Lisbon", "Magdeburg", "Hildsheim", "Cuxhaven",
+                "Rostock","Gdańsk", "Braunschweig", "Calais", "Göttingen",
+                "Duisburg", "Lüneburg")
+
+latitudes = c(52.5200, 52.3759, 47.9990, 41.1579, 41.5337,
+              42.3601, 40.7128, 41.3851, 39.5696,51.5074, 
+              50.9375, 48.573405,53.551086, 51.227741,52.229676,
+              45.438384,45.809963, 45.440847,50.110924,49.487459,
+              50.075538, 50.827845, 51.050409,  51.107885, 50.064650,
+              51.454513,  50.819767, 42.101483, 53.079296, 51.441641,
+              52.090737, 38.722252, 52.120533,52.150002,53.867948,
+               54.088696,54.352025, 52.265101,  50.948810, 51.541280,
+              51.434407, 53.246879 )
+
+longitudes <-  c(13.4050, 9.7320, 7.8421, -8.6291, -8.4265,
+                 -71.0589, -74.0060, 2.1734, 2.6502,-0.1278,
+                 6.9603,7.752111, 9.993682,6.773456, 21.012229,
+                  10.991622, 9.085176, 12.315515,8.682127, 8.466039,
+                 14.437800,12.921369,13.737262, 17.038538, 19.944981,
+                 -0.978615, -1.087976, -72.589810, 8.801694, 5.469722,
+                 5.121420, -9.139337,11.627624, 9.951553, 8.703471,
+                 12.140329, 18.646638,  10.518151, 1.858579, 9.915800,
+                 6.762329, 10.411245)
+
+# Create a new DataFrame with the first 15 entries
+cities <- data.frame(
+  name = city_names,
+  lat = latitudes,
+  lon = longitudes
+)
+
+
+# Define custom marker icon with reduced size
+customIcon <- makeIcon(
+  iconUrl = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-icon.png",
+  iconWidth = 10,  # Adjust the width as needed
+  iconHeight = 15, # Adjust the height as needed
+  iconAnchorX = 3,
+  iconAnchorY = 5
+)
+
+
+# Add markers for each city
+world_map <- world_map %>%
+  addMarkers(
+    data = cities,
+    lat = ~lat,
+    lng = ~lon,
+    label = ~name,
+    popup = ~name,
+    icon = customIcon
+  )
+
+```
+
+```{r}
+#| echo: false
+# Display the map
+world_map
+```

@@ -10,7 +10,7 @@ listing:
   categories: false
   sort-ui: false
   filter-ui: false
-  date-format: "3YYYY"
+  date-format: "YYYY"
 page-layout: full
 title-block-banner: true
 ---

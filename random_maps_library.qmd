@@ -1,0 +1,25 @@
+---
+title: "Random Maps library"
+format: 
+ html: default
+listing:
+  id: sample-listings
+  contents: random_data_library
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  date-format: "YYYY"
+page-layout: full
+title-block-banner: true
+---
+
+Look for articles that might interest you:
+
+#### The articles are ordered descending per year:
+
+::: {#sample-listings}
+:::
+
+

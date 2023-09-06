@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://NedWitte_Travel.com/about/Ned.html</loc>
-    <lastmod>2023-08-27T18:09:09.894Z</lastmod>
+    <lastmod>2023-09-05T12:27:13.829Z</lastmod>
   </url>
   <url>
     <loc>https://NedWitte_Travel.com/about/Nilius.html</loc>
@@ -10,11 +10,11 @@
   </url>
   <url>
     <loc>https://NedWitte_Travel.com/countries.html</loc>
-    <lastmod>2023-08-27T18:09:05.255Z</lastmod>
+    <lastmod>2023-09-05T14:21:21.300Z</lastmod>
   </url>
   <url>
     <loc>https://NedWitte_Travel.com/index.html</loc>
-    <lastmod>2023-08-27T18:08:30.549Z</lastmod>
+    <lastmod>2023-09-06T10:05:59.308Z</lastmod>
   </url>
   <url>
     <loc>https://NedWitte_Travel.com/posts/Mallorcakid/mallorcakid.html</loc>
@@ -30,6 +30,34 @@
   </url>
   <url>
     <loc>https://NedWitte_Travel.com/worldmap.html</loc>
-    <lastmod>2023-08-27T18:09:00.886Z</lastmod>
+    <lastmod>2023-09-05T12:28:16.786Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NedWitte_Travel.com/random_data_library/test/test.html</loc>
+    <lastmod>2023-09-05T14:21:10.716Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NedWitte_Travel.com/random_maps_library.html</loc>
+    <lastmod>2023-09-06T10:08:37.060Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NedWitte_Travel.com/random_data_library/test2/test.html</loc>
+    <lastmod>2023-09-05T14:21:55.810Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NedWitte_Travel.com/worldmapplaces.html</loc>
+    <lastmod>2023-09-05T14:18:25.788Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NedWitte_Travel.com/random_data_library/Germany_map_SHP/Germany_map.html</loc>
+    <lastmod>2023-09-06T10:06:27.428Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NedWitte_Travel.com/random_data_library/First visualization_Georgia/First visualization_Georgia.html</loc>
+    <lastmod>2023-09-06T10:05:37.029Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NedWitte_Travel.com/random_data_library/RD_per_million/RD_per_million.html</loc>
+    <lastmod>2023-09-06T10:06:35.274Z</lastmod>
   </url>
 </urlset>
