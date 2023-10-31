@@ -58,11 +58,16 @@ ggmap::ggmap(ibiza_map) +
 
 Here are some of my favorite pictures:
 
-![Blue water of ](bluewater1.JPG)
+![Blue water of Escondida](bluewater1.JPG)
 
-![Cala of ](cala1.JPG)
+![Cala of Escindida](cala1.JPG)
 
 ![Sunset of xy](ibiza_sunset.JPG)
 
-![Random rocks ](rocks1.JPG)
+![Random rocks Punta de sa Pedrera ](rocks1.JPG)
 
+![Platja de CalaXarraca.jpg ](PlatjadeCalaXarraca1.jpg.JPG)
+
+![Platja de CalaXarraca 2 ](PlatjadeCalaXarraca2.jpg.JPG)
+
+![Cala Salada ](CalaSalada1.JPG)
