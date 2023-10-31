@@ -1,0 +1,68 @@
+---
+title: "Ibiza 2023"
+description: "Ni 30th birthday short trip"
+author: "JNW"
+date: "2023"
+image: Ibiza1.png
+---
+
+**Ibiza 2023**
+
+Ibiza is not only a party island. Its definately more than that:
+
+```{r}
+#| echo: false
+#| output: false
+#| include: false
+#| warning: false
+
+#install.packages("ggthemes")
+library(ggmap)
+library(maps)
+library(ggthemes)
+library(tibble)
+
+
+df_places <- tibble(
+  place = c("Sant Antoni de Portmany",
+               "Aeroport Eivissa",
+               "Eivissa Port"),
+  long = c(1.30247, 1.36696, 1.43792),
+  lat = c(38.98248, 38.87766, 38.91489)
+  )
+ 
+
+```
+
+```{r}
+#| echo: false
+#| output: false
+#| include: false
+#| warning: false
+ibiza_map <- ggmap::get_stamenmap(
+  bbox = c(left = 0.97, bottom = 38.75, right = 1.86, top = 39.1865)
+)
+
+```
+
+```{r}
+#| echo: false
+#| warning: false
+ggmap::ggmap(ibiza_map) + 
+  geom_point(data = df_places,
+             aes(x= long, y = lat),
+             size = 2.3)+
+  theme_map()
+
+```
+
+Here are some of my favorite pictures:
+
+![Blue water of ](bluewater1.JPG)
+
+![Cala of ](cala1.JPG)
+
+![Sunset of xy](ibiza_sunset.JPG)
+
+![Random rocks ](rocks1.JPG)
+
