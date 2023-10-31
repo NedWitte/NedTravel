@@ -21,16 +21,9 @@ library(ggmap)
 library(maps)
 library(ggthemes)
 library(tibble)
+library(ggplot2)
 
 
-df_places <- tibble(
-  place = c("Sant Antoni de Portmany",
-               "Aeroport Eivissa",
-               "Eivissa Port"),
-  long = c(1.30247, 1.36696, 1.43792),
-  lat = c(38.98248, 38.87766, 38.91489)
-  )
- 
 
 ```
 
@@ -39,20 +32,14 @@ df_places <- tibble(
 #| output: false
 #| include: false
 #| warning: false
-ibiza_map <- ggmap::get_stamenmap(
-  bbox = c(left = 0.97, bottom = 38.75, right = 1.86, top = 39.1865)
-)
+
 
 ```
 
 ```{r}
 #| echo: false
 #| warning: false
-ggmap::ggmap(ibiza_map) + 
-  geom_point(data = df_places,
-             aes(x= long, y = lat),
-             size = 2.3)+
-  theme_map()
+
 
 ```
 
@@ -66,8 +53,8 @@ Here are some of my favorite pictures:
 
 ![Random rocks Punta de sa Pedrera ](rocks1.JPG)
 
-![Platja de CalaXarraca.jpg ](PlatjadeCalaXarraca1.jpg.JPG)
+![Platja de CalaXarraca.jpg ](PlatjadeCalaXarraca1.JPG)
 
-![Platja de CalaXarraca 2 ](PlatjadeCalaXarraca2.jpg.JPG)
+![Platja de CalaXarraca 2 ](PlatjadeCalaXarraca2.JPG)
 
-![Cala Salada ](CalaSalada1.JPG)
+![Cala Salada](CalaSalada1.JPG)

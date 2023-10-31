@@ -1,0 +1,50 @@
+---
+title: "DUisburg Roadtrip 2020"
+description: "The start of ArrozcomNilius"
+author: "JNW"
+date: "2020"
+image: duisburg1.png
+---
+
+**Duisburg 2020**
+
+This trip was very spontaneously. Super random. We got two bikes, took the Audi A6 and just booked a random AirBnB in the south of Duisburg city.
+
+```{r}
+#| echo: false
+#| output: false
+#| include: false
+#| warning: false
+
+#install.packages("ggthemes")
+library(ggmap)
+library(maps)
+library(ggthemes)
+library(tibble)
+library(ggplot2)
+
+
+
+```
+
+```{r}
+#| echo: false
+#| output: false
+#| include: false
+#| warning: false
+
+
+```
+
+```{r}
+#| echo: false
+#| warning: false
+
+
+```
+
+Here are some of my favorite pictures:
+
+![Arts](Kunst1.JPG)
+![Cycling through the fields](Cycling1.JPG)
+![Swimming in the Ruhr](lake1.JPG)
