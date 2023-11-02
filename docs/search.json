@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "KarambolageInvesting",
     "section": "",
-    "text": "Look for articles that might interest you\n\nMy travel sorted descending per year:\n\n\n\n\n  \n\n\n\n\nIbiza 2023\n\n\n\n\n\nNi 30th birthday short trip\n\n\n\n\n\n\n2023\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nIbiza 2023\n\n\n\n\n\nNi 30th birthday short trip\n\n\n\n\n\n\n2023\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\n1st in Portugal\n\n\n\n\n\nFirst trip to Portugal in 2020\n\n\n\n\n\n\n2020\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nMallorca\n\n\n\n\n\nChild trip to Mallorca\n\n\n\n\n\n\n2008\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nUK Exchange Trip 1\n\n\n\n\n\nTo learn proper English in England\n\n\n\n\n\n\n2005\n\n\nJNW\n\n\n\n\n\n\nNo matching items"
+    "text": "Look for articles that might interest you\n\nMy travel sorted descending per year:\n\n\n\n\n  \n\n\n\n\nIbiza 2023\n\n\n\n\n\nNi 30th birthday short trip\n\n\n\n\n\n\n2023\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\n1st in Portugal\n\n\n\n\n\nFirst trip to Portugal in 2020\n\n\n\n\n\n\n2020\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nDuisburg Roadtrip 2020\n\n\n\n\n\nThe start of ArrozcomNilius\n\n\n\n\n\n\n2020\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nMallorca\n\n\n\n\n\nChild trip to Mallorca\n\n\n\n\n\n\n2008\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nUK Exchange Trip 1\n\n\n\n\n\nTo learn proper English in England\n\n\n\n\n\n\n2005\n\n\nJNW\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/Mallorcakid/mallorcakid.html",
@@ -123,7 +123,7 @@
     "href": "posts/2020_PT1/PT1.html",
     "title": "1st in Portugal",
     "section": "",
-    "text": "Portugal 2020 (also known as shark season)\nFirst step was driving to Hamburg via train. We took a night flight from Hamburg airport to Porto before taking a Renault Clio as a rental car. Back in 2020, there was still the possiblity to get cheap rental cars in September. We paid roughly 210 Euros for two weeks.\n\n\n\nPeniche\n\n\n\n\n\nObidos sunset in September 2020\n\n\n\n#| echo: false\n#| output: false\n#| include: false\nm &lt;- leaflet() %&gt;%\n  addTiles() %&gt;%\n  setView(lng = 0, lat = 51, zoom = 4)%&gt;%\n  addMarkers(lng = -8, lat = 39.5, popup = \"Portugal\") %&gt;%\n   addProviderTiles(providers$Esri.NatGeoWorldMap)"
+    "text": "Portugal 2020 (also known as shark season)\nFirst step was driving to Hamburg via train. We took a night flight from Hamburg airport to Porto before taking a Renault Clio as a rental car. Back in 2020, there was still the possebility to get cheap rental cars in September. We paid roughly 210 Euros for two weeks."
   },
   {
     "objectID": "posts/2000_Mallorcakid/mallorcakid.html",
@@ -142,7 +142,7 @@
   {
     "objectID": "posts/2020_Duisburg/2020_Duisburg.html",
     "href": "posts/2020_Duisburg/2020_Duisburg.html",
-    "title": "Ibiza 2023",
+    "title": "Duisburg Roadtrip 2020",
     "section": "",
     "text": "Duisburg 2020\nThis trip was very spontaneously. Super random. We got two bikes, took the Audi A6 and just booked a random AirBnB in the south of Duisburg city.\nHere are some of my favorite pictures:"
   }

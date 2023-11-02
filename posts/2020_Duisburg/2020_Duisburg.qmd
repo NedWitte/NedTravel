@@ -1,8 +1,8 @@
 ---
-title: "DUisburg Roadtrip 2020"
+title: "Duisburg Roadtrip 2020"
 description: "The start of ArrozcomNilius"
 author: "JNW"
-date: "2020"
+date: "2020-05"
 image: duisburg1.png
 ---
 
