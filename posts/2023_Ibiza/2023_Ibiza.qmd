@@ -1,14 +1,12 @@
 ---
 title: "Ibiza 2023"
-description: "Ni 30th birthday short trip"
+description: "30th birthday short trip"
 author: "JNW"
-date: "2023"
+date: "2023-09"
 image: Ibiza1.png
 ---
 
 **Ibiza 2023**
-
-Ibiza is not only a party island. Its definately more than that:
 
 ```{r}
 #| echo: false
@@ -21,40 +19,19 @@ library(ggmap)
 library(maps)
 library(ggthemes)
 library(tibble)
-library(ggplot2)
-
-
 
 ```
 
-```{r}
-#| echo: false
-#| output: false
-#| include: false
-#| warning: false
+![Blue water of Ibiza](bluewater1.JPG)
 
+![Cala](cala1.jpg)
 
-```
+![Sunset of Cala Salada](CalaSalada1.jpg)
 
-```{r}
-#| echo: false
-#| warning: false
+![Platja de Cala Xarraca](PlatjadeCalaXarraca1.JPG)
 
+![Platja de Cala Xarraca2](PlatjadeCalaXarraca2.JPG)
 
-```
+![Beautiful rocks of](rocks1.JPG)
 
-Here are some of my favorite pictures:
-
-![Blue water of Escondida](bluewater1.JPG)
-
-![Cala of Escindida](cala1.JPG)
-
-![Sunset of xy](ibiza_sunset.JPG)
-
-![Random rocks Punta de sa Pedrera ](rocks1.JPG)
-
-![Platja de CalaXarraca.jpg ](PlatjadeCalaXarraca1.JPG)
-
-![Platja de CalaXarraca 2 ](PlatjadeCalaXarraca2.JPG)
-
-![Cala Salada](CalaSalada1.JPG)
+![Ibiza sunset](ibiza_sunset.JPG)

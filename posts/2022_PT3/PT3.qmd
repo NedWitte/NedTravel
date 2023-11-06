@@ -1,0 +1,31 @@
+---
+title: "2nd in Portugal"
+description: "First trip to Portugal in 2020"
+author: "JNW"
+date: "2020-09"
+image: pt1.JPG
+format: html
+---
+
+**Portugal 2020 (also known as shark season)**
+
+First step was driving to Hamburg via train. We took a night flight from Hamburg airport to Porto before taking a Renault Clio as a rental car. Back in 2020, there was still the possebility to get cheap rental cars in September. We paid roughly 210 Euros for two weeks.
+
+
+![Sunset in Geres](sunset_geres.JPG "Title: classsic sunset in Geres"){fig-alt="The classsic sunset in Geres"}
+![Aveiro](aveiro.JPG)
+![Nazare Light Tower](nazare_tower.JPG)
+![Nazare Light Tower](nazare_beach.JPG)
+![Nazare with to the North Beach (big waves there)](pt1.JPG)
+![Obidos sunset in September 2020](sunsetobidos.JPG){fig-alt="Sunset in Obidos castle"}
+![Farol do Cabo Espichel](FaroldoCaboEspichel.JPG)
+![Lisbon "Skyline"](lisbon1.JPG)
+![Sunset in Lisbon](sunset_lisbon.JPG)
+![Sines at the beach](sines_beach.JPG)
+![Sines at the beach sunset](sines_beach2.JPG)
+![Cabo da Roca](CabodaRoca.JPG)
+![Praia da Ursa](PraiadaUrsa.JPG)
+![Praia da Ursa2](PraiadaUrsa2.JPG)
+![Pesua de Regua](PesuadeRegua.JPG){fig-alt="Wine region of Pesua de Regua"}
+
+
