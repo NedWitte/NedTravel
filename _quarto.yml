@@ -37,6 +37,8 @@ website:
 format:
   html:
     theme: ocean
+    fig-width: 12
+    fig-height: 7
     css: 
        - html/style.scs
     code-link: true
