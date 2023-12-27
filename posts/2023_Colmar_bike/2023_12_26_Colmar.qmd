@@ -1,0 +1,41 @@
+---
+title: "Colmar Challenge on 26.12.2023"
+description: "A ride of ups and downs towards France followed by a way harder way back - Freiburg to Colmar"
+author: "JNW"
+date: "2023-12"
+image: Colmar1.JPG
+format: html
+---
+
+**A challenge day: A trip to Colmar and back**
+
+Based on calculations from Google, one way is roughly 46km. This was my planned route:
+
+![Colmar on Google Maps](Colmar_trip.PNG) 
+
+I started by waking up at 6.30 in the morning by having a beautiful oatmeal breakfast with protein powder, nuts and some coconut powder followed by a small coffee to make me poop. All worked out!
+
+First stop: Tuniberg
+
+![Tuniberg](Tuniberg.JPG "A morning in Tuniberg"){fig-alt="Tuniberg"}
+
+Second stop: The border France-Germany
+![Rhein border in Breisach](Rhein.JPG)
+
+Interesting feature on French fields: Open silos
+![Silos](Silo.JPG)
+
+The arrival in Colmar: christmas market
+
+![Colmar Christmas market vibes](Colmar1.JPG)
+![Colmar Christmas market vibes](Colmar2.JPG)
+![Colmar Christmas market vibes](Colmar3.JPG)
+![Colmar Christmas market vibes](Colmar4.JPG)
+![Colmar Christmas market vibes](Colmar5.JPG)
+![Colmar Christmas market vibes](Colmar6.JPG)
+![Colmar Christmas market vibes](Colmar7.JPG)
+
+On the way back: A flat tire and goats laughing about me:
+
+![Laughing goats](goats_laughing.JPG)
+

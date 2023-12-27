@@ -1,0 +1,17 @@
+---
+title: "First time in New York City"
+description: "December 2021 and January 2022 in NYC"
+author: "JNW"
+date: "2022-01"
+image: nyc1_favicon.PNG
+format: html
+---
+
+**NYC 2021/2022 (Christmas in Massuchusetts and NYE in Manhattan)**
+
+NYC in winter:
+
+![NYC](nyc1_favicon.PNG)
+
+Christmas in Springfield:
+

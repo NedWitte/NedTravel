@@ -1,0 +1,14 @@
+---
+title: "summer in NYC"
+description: "Second trip to USA in May 2022"
+author: "JNW"
+date: "2022-06"
+image: nyc2_favicon.PNG
+format: html
+---
+
+**New York and Roosevelt island in spring 2022**
+
+Julius arrived in May 2022. First stop: border control. Unfortunetaly, Julius was dragged out and had to wait 2h for further processing. They asked him detailed question on where he is going to stay and why is staying full 5 weeks
+
+![NYC skyline](nyc2_favicon.PNG)
