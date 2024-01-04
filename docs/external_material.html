@@ -6,11 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="JNW">
-<meta name="dcterms.date" content="2023-12-01">
-<meta name="description" content="A ride of ups and downs towards France followed by a way harder way back - Freiburg to Colmar">
 
-<title>Colmar Challenge on 26.12.2023</title>
+<title>Travel posts by Ned</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -26,22 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<link href="../../themockup.png" rel="icon" type="image/png">
-<script src="../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./themockup.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -62,12 +61,43 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-sample-listings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-sample-listings'] = new List('listing-sample-listings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="html/style.scs">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -80,23 +110,23 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html" rel="" target="">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Articles</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../random_maps_library.html" rel="" target="">
+    <a class="nav-link" href="./random_maps_library.html" rel="" target="">
  <span class="menu-text">Random maps library</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../countries.html" rel="" target="">
+    <a class="nav-link" href="./countries.html" rel="" target="">
  <span class="menu-text">Countries world map</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../worldmapplaces.html" rel="" target="">
+    <a class="nav-link" href="./worldmapplaces.html" rel="" target="">
  <span class="menu-text">World map with places</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../external_material.html" rel="" target="">
+    <a class="nav-link active" href="./external_material.html" rel="" target="" aria-current="page">
  <span class="menu-text">Interesting external sources</span></a>
   </li>  
 </ul>
@@ -107,11 +137,11 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
         <li>
-    <a class="dropdown-item" href="../../about/Ned.html" rel="" target="">
+    <a class="dropdown-item" href="./about/Ned.html" rel="" target="">
  <span class="dropdown-text">Ned</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../about/Nilius.html" rel="" target="">
+    <a class="dropdown-item" href="./about/Nilius.html" rel="" target="">
  <span class="dropdown-text">ArrozcomNilius</span></a>
   </li>  
     </ul>
@@ -129,76 +159,73 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page">
+      <h1 class="title">Travel posts by Ned</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Colmar Challenge on 26.12.2023</h1>
+
+
+
+<section id="interesting-information-with-external-sources" class="level4">
+<h4 class="anchored">Interesting information with external sources:</h4>
+<div id="listing-sample-listings" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1704322800000" data-listing-file-modified-sort="1704382361590" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./external_material/2024_01_04_Florida_keys/florida_keys.html"> <img src="./external_material/2024_01_04_Florida_keys/florida_keys1.png" class="thumbnail-image"> </a></p>
 </div>
+<div class="body">
+<a href="./external_material/2024_01_04_Florida_keys/florida_keys.html">
+<h3 class="no-anchor listing-title" data-anchor-id="interesting-information-with-external-sources">
+Florida keys USA scenic drive
+</h3>
+<div class="listing-subtitle">
 
-<div>
-  <div class="description">
-    A ride of ups and downs towards France followed by a way harder way back - Freiburg to Colmar
-  </div>
 </div>
-
-
-<div class="quarto-title-meta">
-
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>JNW </p>
-          </div>
-  </div>
-    
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">December 1, 2023</p>
-    </div>
-  </div>
-  
-    
-  </div>
-  
-
-</header>
-
-<p><strong>A challenge day: A trip to Colmar and back</strong></p>
-<p>Based on calculations from Google, one way is roughly 46km. This was my planned route:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="Colmar_trip.PNG" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Colmar on Google Maps</figcaption>
-</figure>
+<div class="listing-description">
+<p>The Florida Keys are a coral cay archipelago located off the southern coast of Florida, forming the southernmost part of the continental United States.</p>
 </div>
-<p>I started by waking up at 6.30 in the morning by having a beautiful oatmeal breakfast with protein powder, nuts and some coconut powder followed by a small coffee to make me poop. All worked out!</p>
-<p>First stop: Tuniberg</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="Tuniberg.JPG" title="A morning in Tuniberg" class="img-fluid figure-img" alt="Tuniberg"></p>
-<figcaption class="figure-caption">Tuniberg</figcaption>
-</figure>
+</a>
 </div>
-<p>Second stop: The border France-Germany <img src="Rhein.JPG" class="img-fluid" alt="Rhein border in Breisach"></p>
-<p>Interesting feature on French fields: Open silos <img src="Silo.JPG" class="img-fluid" alt="Silos"></p>
-<p>The arrival in Colmar: christmas market</p>
-<p><img src="Colmar1.JPG" class="img-fluid" alt="Colmar Christmas market vibes"> <img src="Colmar2.JPG" class="img-fluid" alt="Colmar Christmas market vibes"> <img src="Colmar3.JPG" class="img-fluid" alt="Colmar Christmas market vibes"> <img src="Colmar4.JPG" class="img-fluid" alt="Colmar Christmas market vibes"> <img src="Colmar5.JPG" class="img-fluid" alt="Colmar Christmas market vibes"> <img src="Colmar6.JPG" class="img-fluid" alt="Colmar Christmas market vibes"> <img src="Colmar7.JPG" class="img-fluid" alt="Colmar Christmas market vibes"></p>
-<p>On the way back: A flat tire and goats laughing about me:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="goats_laughing.JPG" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Laughing goats</figcaption>
-</figure>
+<div class="metadata">
+<a href="./external_material/2024_01_04_Florida_keys/florida_keys.html">
+<div class="listing-date">
+2024-01-04
+</div>
+<div class="listing-author">
+JNW
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
 </div>
 
 
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

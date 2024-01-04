@@ -1,0 +1,22 @@
+---
+title: "Travel posts by Ned"
+format: 
+ html: default
+listing:
+  id: sample-listings
+  contents: external_material
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  date-format: "YYYY-MM-DD"
+page-layout: full
+title-block-banner: true
+---
+
+#### Interesting information with external sources:
+
+::: {#sample-listings}
+:::
+

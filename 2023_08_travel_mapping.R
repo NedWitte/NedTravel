@@ -37,7 +37,7 @@ world_map <- leaflet() %>%
 
 # Cities and their coordinates
 cities <- data.frame(
-  city = c("New York", "Porto", "Antalya", "Hildsheim", "Hamburg", "Palma de Mallorca", "Sylt", "Berlin", "Barcelona"),
+  city = c("New York", "Porto", "Antalya", "Hildesheim", "Hamburg", "Palma de Mallorca", "Sylt", "Berlin", "Barcelona"),
   lat = c(40.7128, 41.1579, 36.8969, 52.1508, 53.5511, 39.5696, 54.9077, 52.5200, 41.3851),
   lon = c(-74.0060, -8.6291, 30.7133, 9.9512, 9.9937, 2.6502, 8.3170, 13.4050, 2.1734)
 )

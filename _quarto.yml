@@ -20,6 +20,8 @@ website:
         href: countries.qmd
       - text: World map with places
         href: worldmapplaces.qmd
+      - text: Interesting external sources
+        href: external_material.qmd
       
     right: 
       - text: About

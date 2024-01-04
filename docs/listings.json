@@ -22,5 +22,11 @@
       "/random_data_library/Germany_map_SHP/Germany_map.html",
       "/random_data_library/RD_per_million/RD_per_million.html"
     ]
+  },
+  {
+    "listing": "/external_material.html",
+    "items": [
+      "/external_material/2024_01_04_Florida_keys/florida_keys.html"
+    ]
   }
 ]

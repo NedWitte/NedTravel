@@ -1,0 +1,22 @@
+---
+title: "Florida keys USA scenic drive"
+author: "JNW"
+date: "2024-01-04"
+description: "The Florida Keys are a coral cay archipelago located off the southern coast of Florida, forming the southernmost part of the continental United States."
+image: florida_keys1.png
+---
+
+### **Florida Keys USA Scenic Drive - Islamorada to Key West via A1A Highway Road Trip from Wind Walk Travel videos**
+
+Check out this: https://www.youtube.com/watch?v=wFN_QaTw1Bo
+
+{{< video https://www.youtube.com/watch?v=wFN_QaTw1Bo >}}
+
+### My personal highlights:
+
+::: {#fig-1 layout-ncol="2"}
+![Seven Mile Brigde by car](2024_01_seven_mile_brigde.PNG) 
+![Seven Mile Brigde on Google maps](2024_01_seven_mile_brigde_maps.PNG)
+
+First highlight driving the keys
+:::

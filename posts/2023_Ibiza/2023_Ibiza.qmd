@@ -2,11 +2,13 @@
 title: "Ibiza 2023"
 description: "30th birthday short trip"
 author: "JNW"
-date: "2023-09"
+date: "2023"
 image: Ibiza1.png
 ---
 
 **Ibiza 2023**
+
+
 
 ```{r}
 #| echo: false
@@ -20,18 +22,36 @@ library(maps)
 library(ggthemes)
 library(tibble)
 
+
+df_places <- tibble(
+  place = c("Sant Antoni de Portmany",
+               "Aeroport Eivissa",
+               "Eivissa Port"),
+  long = c(1.30247, 1.36696, 1.43792),
+  lat = c(38.98248, 38.87766, 38.91489)
+  )
+ 
+
 ```
 
-![Blue water of Ibiza](bluewater1.JPG)
+```{r}
+#| echo: false
+#| output: false
+#| include: false
+#| warning: false
+ibiza_map <- ggmap::get_stamenmap(
+  bbox = c(left = 0.97, bottom = 38.75, right = 1.86, top = 39.1865)
+)
 
-![Cala](cala1.jpg)
+```
 
-![Sunset of Cala Salada](CalaSalada1.jpg)
+```{r}
+#| echo: false
+#| warning: false
+ggmap::ggmap(ibiza_map) + 
+  geom_point(data = df_places,
+             aes(x= long, y = lat),
+             size = 2.3)+
+  theme_map()
 
-![Platja de Cala Xarraca](PlatjadeCalaXarraca1.JPG)
-
-![Platja de Cala Xarraca2](PlatjadeCalaXarraca2.JPG)
-
-![Beautiful rocks of](rocks1.JPG)
-
-![Ibiza sunset](ibiza_sunset.JPG)
+```
