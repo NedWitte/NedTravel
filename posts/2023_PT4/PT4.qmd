@@ -1,31 +1,14 @@
 ---
-title: "2nd in Portugal"
+title: "4th in Portugal"
 description: "First trip to Portugal in 2020"
 author: "JNW"
-date: "2020-09"
+date: "2023-08"
 image: pt1.JPG
 format: html
 ---
 
-**Portugal 2020 (also known as shark season)**
+**Portugal 2023 - Fao and Lolita wedding**
 
-First step was driving to Hamburg via train. We took a night flight from Hamburg airport to Porto before taking a Renault Clio as a rental car. Back in 2020, there was still the possebility to get cheap rental cars in September. We paid roughly 210 Euros for two weeks.
-
+In 2023, it was again August that we visited Portugal. The month of the immigrants hit us hard.
 
 ![Sunset in Geres](sunset_geres.JPG "Title: classsic sunset in Geres"){fig-alt="The classsic sunset in Geres"}
-![Aveiro](aveiro.JPG)
-![Nazare Light Tower](nazare_tower.JPG)
-![Nazare Light Tower](nazare_beach.JPG)
-![Nazare with to the North Beach (big waves there)](pt1.JPG)
-![Obidos sunset in September 2020](sunsetobidos.JPG){fig-alt="Sunset in Obidos castle"}
-![Farol do Cabo Espichel](FaroldoCaboEspichel.JPG)
-![Lisbon "Skyline"](lisbon1.JPG)
-![Sunset in Lisbon](sunset_lisbon.JPG)
-![Sines at the beach](sines_beach.JPG)
-![Sines at the beach sunset](sines_beach2.JPG)
-![Cabo da Roca](CabodaRoca.JPG)
-![Praia da Ursa](PraiadaUrsa.JPG)
-![Praia da Ursa2](PraiadaUrsa2.JPG)
-![Pesua de Regua](PesuadeRegua.JPG){fig-alt="Wine region of Pesua de Regua"}
-
-

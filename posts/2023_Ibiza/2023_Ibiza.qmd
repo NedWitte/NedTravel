@@ -8,8 +8,6 @@ image: Ibiza1.png
 
 **Ibiza 2023**
 
-
-
 ```{r}
 #| echo: false
 #| output: false
@@ -39,19 +37,19 @@ df_places <- tibble(
 #| output: false
 #| include: false
 #| warning: false
-ibiza_map <- ggmap::get_stamenmap(
-  bbox = c(left = 0.97, bottom = 38.75, right = 1.86, top = 39.1865)
-)
+#ibiza_map <- ggmap::get_stamenmap(
+ #bbox = c(left = 0.97, bottom = 38.75, right = 1.86, top = 39.1865)
+#)
 
 ```
 
 ```{r}
 #| echo: false
 #| warning: false
-ggmap::ggmap(ibiza_map) + 
-  geom_point(data = df_places,
-             aes(x= long, y = lat),
-             size = 2.3)+
-  theme_map()
+#ggmap::ggmap(ibiza_map) + 
+  #geom_point(data = df_places,
+             #aes(x= long, y = lat),
+             #size = 2.3)+
+             #theme_map()
 
 ```
