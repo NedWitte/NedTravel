@@ -1,14 +1,14 @@
 ---
 title: "4th in Portugal"
-description: "First trip to Portugal in 2020"
+description: "Already the 4th trip to Portugal. Again in immigrant month August"
 author: "JNW"
 date: "2023-08"
-image: pt1.JPG
+image: Viano_Do_Castelo.png
 format: html
 ---
 
 **Portugal 2023 - Fao and Lolita wedding**
 
-In 2023, it was again August that we visited Portugal. The month of the immigrants hit us hard.
+In 2023, it was again August that we visited Portugal. The month of the immigrants hit us hard. Portugal is full of people every August. The most prominent factor is school holidays in France.
 
-![Sunset in Geres](sunset_geres.JPG "Title: classsic sunset in Geres"){fig-alt="The classsic sunset in Geres"}
+

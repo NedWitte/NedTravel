@@ -1,0 +1,17 @@
+---
+title: "A second time in Belfort, France"
+description: "Its a random weekend in January 2024."
+author: "JNW"
+date: "2024-01"
+image: 1000015050.jpg
+format: html
+---
+
+**Belfort-France in January 2024**
+
+![Belfort streets](1000015024.jpg) ![Belfort streets](1000015028.jpg) ![Belfort Fort](1000015044.jpg) ![Belfort Fort](1000015047.jpg) ![Belfort Fort](1000015048.jpg) ![Belfort Fort](1000015049.jpg) ![Belfort Fort](1000015050.jpg) ![Belfort Fort](1000015051.jpg) ![Belfort Fort](1000015052.jpg) ![Belfort Fort](1000015053.jpg) ![Belfort Fort](1000015054.jpg) ![Belfort Fort](1000015055.jpg) ![Belfort Fort](1000015056.jpg) ![Belfort streets](1000015057.jpg) ![Belfort Fort](1000015058.jpg)
+
+Here the same as a video from my channel:
+
+
+{{< video https://www.youtube.com/watch?v=qqWAbG3uNPg >}}

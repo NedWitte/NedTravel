@@ -1,14 +1,20 @@
 ---
-title: "2nd in Portugal"
+title: "3rd time in Portugal"
 description: "First trip to Portugal in 2020"
 author: "JNW"
 date: "2022-10"
-image: pt1.JPG
+image: border_PT_ESP.png
 format: html
 ---
 
 **Portugal 2022 (Barienrode-NYC)**
 
+This time, we decided to only stay in the North of PT. Luckily, we got nearly perfect weather conditions in the beginning of October 2022. Funny enough, the theme of that trip was all about the competitive landscape between Espanha and Portugal
 
+![Miradouro de Santa Trega with view on river Minho](border_PT_ESP.png)
 
-![Sunset in Geres](sunset_geres.JPG "Title: classsic sunset in Geres"){fig-alt="The classsic sunset in Geres"}
+In the nationsleague, Portugal played against Spain in Braga. Unfortunenately, Portugal lost 0-1 to Spain
+![Stadium Braga](game_PT_ESP.png)
+
+After visiting Vigo, we visited Moncao....a small border village.
+![Wine village Moncao](Moncao.png)

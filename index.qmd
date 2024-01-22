@@ -1,5 +1,5 @@
 ---
-title: "Travel posts by Ned"
+title: "Travel posts by Julius Ned"
 format: 
  html: default
 listing:
@@ -11,6 +11,7 @@ listing:
   sort-ui: false
   filter-ui: false
   date-format: "YYYY"
+image-height: "10"
 page-layout: full
 title-block-banner: true
 ---
@@ -22,8 +23,4 @@ Look for articles that might interest you
 ::: {#sample-listings}
 :::
 
-<iframe src="https://giphy.com/embed/9JrkkDoJuU0FbdbUZU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
 
-</iframe>
-
-<p>
