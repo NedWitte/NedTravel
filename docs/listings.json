@@ -2,7 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/2024_Belfort_2/Belfort_2.html",
+      "/posts/2024_02_Paris/2024_02_Paris.html",
+      "/posts/2024_01_Belfort_2/Belfort_2.html",
       "/posts/2023_Colmar_bike/2023_12_26_Colmar.html",
       "/posts/2023_PT4/PT4.html",
       "/posts/2023_Ibiza/2023_Ibiza.html",
@@ -17,18 +18,18 @@
     ]
   },
   {
+    "listing": "/external_material.html",
+    "items": [
+      "/external_material/2024_01_05_Miami/Miami.html",
+      "/external_material/2024_01_04_Florida_keys/florida_keys.html"
+    ]
+  },
+  {
     "listing": "/random_maps_library.html",
     "items": [
       "/random_data_library/First visualization_Georgia/First visualization_Georgia.html",
       "/random_data_library/Germany_map_SHP/Germany_map.html",
       "/random_data_library/RD_per_million/RD_per_million.html"
-    ]
-  },
-  {
-    "listing": "/external_material.html",
-    "items": [
-      "/external_material/2024_01_05_Miami/Miami.html",
-      "/external_material/2024_01_04_Florida_keys/florida_keys.html"
     ]
   }
 ]

@@ -1,5 +1,89 @@
 [
   {
+    "objectID": "worldmapplaces.html",
+    "href": "worldmapplaces.html",
+    "title": "A view on the cities that I already visited",
+    "section": "",
+    "text": "Now this is a leaflet of major cities that I visited:"
+  },
+  {
+    "objectID": "random_data_library/RD_per_million/RD_per_million.html",
+    "href": "random_data_library/RD_per_million/RD_per_million.html",
+    "title": "R&D Researchers per 1 million citizens",
+    "section": "",
+    "text": "Some maps"
+  },
+  {
+    "objectID": "random_data_library/First visualization_Georgia/First visualization_Georgia.html",
+    "href": "random_data_library/First visualization_Georgia/First visualization_Georgia.html",
+    "title": "A testing script for map visualization",
+    "section": "",
+    "text": "testing\n#| echo: false #| output: false #| include: false #| warning: false #| message: false\nlibrary(tidyverse) library(sf)"
+  },
+  {
+    "objectID": "posts/2024_01_Belfort_2/Belfort_2.html",
+    "href": "posts/2024_01_Belfort_2/Belfort_2.html",
+    "title": "A second time in Belfort, France",
+    "section": "",
+    "text": "Belfort-France in January 2024\n              \nHere the same as a video from my channel:"
+  },
+  {
+    "objectID": "posts/2023_Ibiza/2023_Ibiza.html",
+    "href": "posts/2023_Ibiza/2023_Ibiza.html",
+    "title": "Ibiza 2023",
+    "section": "",
+    "text": "Ibiza 2023"
+  },
+  {
+    "objectID": "posts/2022_PT3/PT3.html",
+    "href": "posts/2022_PT3/PT3.html",
+    "title": "3rd time in Portugal",
+    "section": "",
+    "text": "Portugal 2022 (Barienrode-NYC)\nThis time, we decided to only stay in the North of PT. Luckily, we got nearly perfect weather conditions in the beginning of October 2022. Funny enough, the theme of that trip was all about the competitive landscape between Espanha and Portugal\n\n\n\nMiradouro de Santa Trega with view on river Minho\n\n\nIn the nationsleague, Portugal played against Spain in Braga. Unfortunenately, Portugal lost 0-1 to Spain \nAfter visiting Vigo, we visited Moncao….a small border village."
+  },
+  {
+    "objectID": "posts/2021_PT2/PT2.html",
+    "href": "posts/2021_PT2/PT2.html",
+    "title": "2nd in Portugal",
+    "section": "",
+    "text": "Portugal 2021 (Family gathering+Peniche+)\nPenedo part:\n\n\n\nPenedo Water park\n\n\nPeniche part:\n    \nArrabida part:\n\n\n\nCabo Espichel\n\n\n\n\n\nPortinho da Arrabida\n\n\n\n\n\nQuinta vibes"
+  },
+  {
+    "objectID": "posts/2020_PT1/PT1.html",
+    "href": "posts/2020_PT1/PT1.html",
+    "title": "1st in Portugal",
+    "section": "",
+    "text": "Portugal 2020 (also known as shark season)\nFirst step was driving to Hamburg via train. We took a night flight from Hamburg airport to Porto before taking a Renault Clio as a rental car. Back in 2020, there was still the possebility to get cheap rental cars in September. We paid roughly 210 Euros for two weeks."
+  },
+  {
+    "objectID": "posts/2018_UK1/UK1.html",
+    "href": "posts/2018_UK1/UK1.html",
+    "title": "UK Exchange Trip 1",
+    "section": "",
+    "text": "As a young student in UK\nAs a teenager of 13 or something, I did a few exchange weeks in the UK."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Travel posts by Julius Ned",
+    "section": "",
+    "text": "Look for articles that might interest you\n\nMy travel sorted descending per year:\n\n\n\n\n  \n\n\n\n\nNilius a first time in Paris / pre-valentins Paris\n\n\n\n\n\nVisiting family of Ni, checking arts in D’Orsey and Pompedeu.\n\n\n\n\n\n\n2024\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nA second time in Belfort, France\n\n\n\n\n\nIts a random weekend in January 2024.\n\n\n\n\n\n\n2024\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nColmar Challenge on 26.12.2023\n\n\n\n\n\nA ride of ups and downs towards France followed by a way harder way back - Freiburg to Colmar\n\n\n\n\n\n\n2023\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\n4th in Portugal\n\n\n\n\n\nAlready the 4th trip to Portugal. Again in immigrant month August\n\n\n\n\n\n\n2023\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nIbiza 2023\n\n\n\n\n\n30th birthday short trip\n\n\n\n\n\n\n2023\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\n3rd time in Portugal\n\n\n\n\n\nFirst trip to Portugal in 2020\n\n\n\n\n\n\n2022\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nsummer in NYC\n\n\n\n\n\nSecond trip to USA in May 2022\n\n\n\n\n\n\n2022\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nFirst time in New York City\n\n\n\n\n\nDecember 2021 and January 2022 in NYC\n\n\n\n\n\n\n2022\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\n2nd in Portugal\n\n\n\n\n\n2nd time Portugal in 2021\n\n\n\n\n\n\n2021\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\n1st in Portugal\n\n\n\n\n\nFirst trip to Portugal in 2020\n\n\n\n\n\n\n2020\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nDuisburg Roadtrip 2020\n\n\n\n\n\nThe start of ArrozcomNilius\n\n\n\n\n\n\n2020\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nMallorca\n\n\n\n\n\nChild trip to Mallorca\n\n\n\n\n\n\n2008\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nUK Exchange Trip 1\n\n\n\n\n\nTo learn proper English in England\n\n\n\n\n\n\n2005\n\n\nJNW\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "external_material/2024_01_05_Miami/Miami.html",
+    "href": "external_material/2024_01_05_Miami/Miami.html",
+    "title": "Miami- the dream?",
+    "section": "",
+    "text": "Miami is just stunning\nMiami is a major center and leader in finance, commerce, culture, arts, and international trade Miami’s metropolitan area is by far the largest urban economy in Florida, with a gross domestic product of $344.9 billion as of 2017 According to a 2018 UBS study of 77 world cities, Miami is the third-richest city in the U.S. and the third richest globally in purchasing power. Miami is a majority-minority city with a Hispanic and Latino population of 310,472, or 70.2 percent of the city’s population, as of 2020.\n\n\nMy personal highlights:\n      \n\n\nAdditional:\nCheck out this amazing drone video as well:"
+  },
+  {
+    "objectID": "countries.html",
+    "href": "countries.html",
+    "title": "A view on the countries that I already visited",
+    "section": "",
+    "text": "This is a map of the countries that I already visited in my life:"
+  },
+  {
     "objectID": "about/Ned.html",
     "href": "about/Ned.html",
     "title": "About Ned",
@@ -14,116 +98,18 @@
     "text": "This is us."
   },
   {
-    "objectID": "countries.html",
-    "href": "countries.html",
-    "title": "A view on the countries that I already visited",
+    "objectID": "external_material/2024_01_04_Florida_keys/florida_keys.html",
+    "href": "external_material/2024_01_04_Florida_keys/florida_keys.html",
+    "title": "Florida keys USA scenic drive",
     "section": "",
-    "text": "This is a map of the countries that I already visited in my life:"
+    "text": "Florida Keys USA Scenic Drive - Islamorada to Key West via A1A Highway Road Trip from Wind Walk Travel videos\nCheck out this: https://www.youtube.com/watch?v=wFN_QaTw1Bo\n\n\n\nMy personal highlights:\n\n\n\n\n \n\n\nFigure 1: First highlight driving the keys"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Travel posts by Julius Ned",
+    "objectID": "external_material.html",
+    "href": "external_material.html",
+    "title": "Travel posts by Ned",
     "section": "",
-    "text": "Look for articles that might interest you\n\nMy travel sorted descending per year:\n\n\n\n\n  \n\n\n\n\nA second time in Belfort, France\n\n\n\n\n\nIts a random weekend in January 2024.\n\n\n\n\n\n\n2024\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nColmar Challenge on 26.12.2023\n\n\n\n\n\nA ride of ups and downs towards France followed by a way harder way back - Freiburg to Colmar\n\n\n\n\n\n\n2023\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\n4th in Portugal\n\n\n\n\n\nAlready the 4th trip to Portugal. Again in immigrant month August\n\n\n\n\n\n\n2023\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nIbiza 2023\n\n\n\n\n\n30th birthday short trip\n\n\n\n\n\n\n2023\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\n3rd time in Portugal\n\n\n\n\n\nFirst trip to Portugal in 2020\n\n\n\n\n\n\n2022\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nsummer in NYC\n\n\n\n\n\nSecond trip to USA in May 2022\n\n\n\n\n\n\n2022\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nFirst time in New York City\n\n\n\n\n\nDecember 2021 and January 2022 in NYC\n\n\n\n\n\n\n2022\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\n2nd in Portugal\n\n\n\n\n\n2nd time Portugal in 2021\n\n\n\n\n\n\n2021\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\n1st in Portugal\n\n\n\n\n\nFirst trip to Portugal in 2020\n\n\n\n\n\n\n2020\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nDuisburg Roadtrip 2020\n\n\n\n\n\nThe start of ArrozcomNilius\n\n\n\n\n\n\n2020\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nMallorca\n\n\n\n\n\nChild trip to Mallorca\n\n\n\n\n\n\n2008\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nUK Exchange Trip 1\n\n\n\n\n\nTo learn proper English in England\n\n\n\n\n\n\n2005\n\n\nJNW\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/Mallorcakid/mallorcakid.html",
-    "href": "posts/Mallorcakid/mallorcakid.html",
-    "title": "Mallorca",
-    "section": "",
-    "text": "Mallorca\nAs a kid, I was once in Mallorca. I do not have much memory about it.\n\n\n\nMallorca"
-  },
-  {
-    "objectID": "posts/Portugal/PT1.html",
-    "href": "posts/Portugal/PT1.html",
-    "title": "1st in Portugal",
-    "section": "",
-    "text": "Portugal 2020 (also known as shark season)\nFirst step was driving to Hamburg via train. We took a night flight from Hamburg airport to Porto before taking a Renault Clio as a rental car. Back in 2020, there was still the possiblity to get cheap rental cars in September. We paid roughly 210 Euros for two weeks.\n{: style=“width: 20%; height: 50%;”}"
-  },
-  {
-    "objectID": "posts/UK1/apple.html",
-    "href": "posts/UK1/apple.html",
-    "title": "Mallorca",
-    "section": "",
-    "text": "Mallorca\nAs a kid, I was once in Mallorca. I do not have much memory about it.\n{: style=“width: 50%; height: auto;”}"
-  },
-  {
-    "objectID": "worldmap.html",
-    "href": "worldmap.html",
-    "title": "My personal portfolio",
-    "section": "",
-    "text": "This is a map of the countries that I already visited in my life:\n\n\n\n\n\nNow this is a leaflet of major cities that I visited:"
-  },
-  {
-    "objectID": "random_data_library/test/test.html",
-    "href": "random_data_library/test/test.html",
-    "title": "A testing script for map visualization",
-    "section": "",
-    "text": "testing\n\n\n\n\n\n\n\n\n\n\n&lt;ScaleContinuous&gt;\n Range:  \n Limits:    0 --    1\n\n\nList of 97\n $ line                      : list()\n  ..- attr(*, \"class\")= chr [1:2] \"element_blank\" \"element\"\n $ rect                      : list()\n  ..- attr(*, \"class\")= chr [1:2] \"element_blank\" \"element\"\n $ text                      :List of 11\n  ..$ family       : chr \"\"\n  ..$ face         : chr \"plain\"\n  ..$ colour       : chr \"black\"\n  ..$ size         : num 11\n  ..$ hjust        : num 0.5\n  ..$ vjust        : num 0.5\n  ..$ angle        : num 0\n  ..$ lineheight   : num 0.9\n  ..$ margin       : 'margin' num [1:4] 0points 0points 0points 0points\n  .. ..- attr(*, \"unit\")= int 8\n  ..$ debug        : logi FALSE\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ title                     : NULL\n $ aspect.ratio              : NULL\n $ axis.title                : list()\n  ..- attr(*, \"class\")= chr [1:2] \"element_blank\" \"element\"\n $ axis.title.x              : NULL\n $ axis.title.x.top          : NULL\n $ axis.title.x.bottom       : NULL\n $ axis.title.y              : NULL\n $ axis.title.y.left         : NULL\n $ axis.title.y.right        : NULL\n $ axis.text                 : list()\n  ..- attr(*, \"class\")= chr [1:2] \"element_blank\" \"element\"\n $ axis.text.x               : NULL\n $ axis.text.x.top           : NULL\n $ axis.text.x.bottom        : NULL\n $ axis.text.y               : NULL\n $ axis.text.y.left          : NULL\n $ axis.text.y.right         : NULL\n $ axis.ticks                : NULL\n $ axis.ticks.x              : NULL\n $ axis.ticks.x.top          : NULL\n $ axis.ticks.x.bottom       : NULL\n $ axis.ticks.y              : NULL\n $ axis.ticks.y.left         : NULL\n $ axis.ticks.y.right        : NULL\n $ axis.ticks.length         : 'simpleUnit' num 0points\n  ..- attr(*, \"unit\")= int 8\n $ axis.ticks.length.x       : NULL\n $ axis.ticks.length.x.top   : NULL\n $ axis.ticks.length.x.bottom: NULL\n $ axis.ticks.length.y       : NULL\n $ axis.ticks.length.y.left  : NULL\n $ axis.ticks.length.y.right : NULL\n $ axis.line                 : NULL\n $ axis.line.x               : NULL\n $ axis.line.x.top           : NULL\n $ axis.line.x.bottom        : NULL\n $ axis.line.y               : NULL\n $ axis.line.y.left          : NULL\n $ axis.line.y.right         : NULL\n $ legend.background         : NULL\n $ legend.margin             : NULL\n $ legend.spacing            : NULL\n $ legend.spacing.x          : NULL\n $ legend.spacing.y          : NULL\n $ legend.key                : NULL\n $ legend.key.size           : 'simpleUnit' num 1.2lines\n  ..- attr(*, \"unit\")= int 3\n $ legend.key.height         : NULL\n $ legend.key.width          : NULL\n $ legend.text               :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : 'rel' num 0.8\n  ..$ hjust        : NULL\n  ..$ vjust        : NULL\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : NULL\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ legend.text.align         : NULL\n $ legend.title              :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : NULL\n  ..$ hjust        : num 0\n  ..$ vjust        : NULL\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : NULL\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ legend.title.align        : NULL\n $ legend.position           : chr \"right\"\n $ legend.direction          : NULL\n $ legend.justification      : NULL\n $ legend.box                : NULL\n $ legend.box.just           : NULL\n $ legend.box.margin         : NULL\n $ legend.box.background     : NULL\n $ legend.box.spacing        : NULL\n $ panel.background          : NULL\n $ panel.border              : NULL\n $ panel.spacing             : 'simpleUnit' num 5.5points\n  ..- attr(*, \"unit\")= int 8\n $ panel.spacing.x           : NULL\n $ panel.spacing.y           : NULL\n $ panel.grid                : NULL\n $ panel.grid.major          : NULL\n $ panel.grid.minor          : NULL\n $ panel.grid.major.x        : NULL\n $ panel.grid.major.y        : NULL\n $ panel.grid.minor.x        : NULL\n $ panel.grid.minor.y        : NULL\n $ panel.ontop               : logi FALSE\n $ plot.background           : NULL\n $ plot.title                :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : 'rel' num 1.2\n  ..$ hjust        : num 0\n  ..$ vjust        : num 1\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : 'margin' num [1:4] 5.5points 0points 0points 0points\n  .. ..- attr(*, \"unit\")= int 8\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ plot.title.position       : chr \"panel\"\n $ plot.subtitle             :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : NULL\n  ..$ hjust        : num 0\n  ..$ vjust        : num 1\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : 'margin' num [1:4] 5.5points 0points 0points 0points\n  .. ..- attr(*, \"unit\")= int 8\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ plot.caption              :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : 'rel' num 0.8\n  ..$ hjust        : num 1\n  ..$ vjust        : num 1\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : 'margin' num [1:4] 5.5points 0points 0points 0points\n  .. ..- attr(*, \"unit\")= int 8\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ plot.caption.position     : chr \"panel\"\n $ plot.tag                  :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : 'rel' num 1.2\n  ..$ hjust        : num 0.5\n  ..$ vjust        : num 0.5\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : NULL\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ plot.tag.position         : chr \"topleft\"\n $ plot.margin               : 'simpleUnit' num [1:4] 0lines 0lines 0lines 0lines\n  ..- attr(*, \"unit\")= int 3\n $ strip.background          : NULL\n $ strip.background.x        : NULL\n $ strip.background.y        : NULL\n $ strip.clip                : chr \"inherit\"\n $ strip.placement           : NULL\n $ strip.text                :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : 'rel' num 0.8\n  ..$ hjust        : NULL\n  ..$ vjust        : NULL\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : NULL\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ strip.text.x              : NULL\n $ strip.text.x.bottom       : NULL\n $ strip.text.x.top          : NULL\n $ strip.text.y              : NULL\n $ strip.text.y.left         : NULL\n $ strip.text.y.right        : NULL\n $ strip.switch.pad.grid     : 'simpleUnit' num 2.75points\n  ..- attr(*, \"unit\")= int 8\n $ strip.switch.pad.wrap     : 'simpleUnit' num 2.75points\n  ..- attr(*, \"unit\")= int 8\n - attr(*, \"class\")= chr [1:2] \"theme\" \"gg\"\n - attr(*, \"complete\")= logi TRUE\n - attr(*, \"validate\")= logi TRUE\n\n\n\nggplot() + \n  geom_sf(data = world_map, \n          aes(fill = life_expectancy),\n          size = 0.25) +\n  coord_sf(crs = st_crs(\"ESRI:54030\")) +  # Robinson\n  scale_fill_gradient(low = \"grey100\", high = \"grey10\") +\n  labs(fill = \"Life expectancy\") +\n  theme_void() +\n  theme(legend.position = \"bottom\")"
-  },
-  {
-    "objectID": "random_maps_library.html",
-    "href": "random_maps_library.html",
-    "title": "Random Maps library",
-    "section": "",
-    "text": "Look for articles that might interest you:\n\nThe articles are ordered descending per year:\n\n\n\n\n  \n\n\n\n\nA testing script for map visualization\n\n\n\n\n\ntest with Andrew Heiss tutorial\n\n\n\n\n\n\n2023\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nGermany map\n\n\n\n\n\ntest\n\n\n\n\n\n\n2023\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nR&D Researchers per 1 million citizens\n\n\n\n\n\ntest with Andrew Heiss tutorial\n\n\n\n\n\n\n2023\n\n\nJNW\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "random_data_library/test2/test.html",
-    "href": "random_data_library/test2/test.html",
-    "title": "R&D Researchers per 1 million citizens",
-    "section": "",
-    "text": "testing"
-  },
-  {
-    "objectID": "worldmapplaces.html",
-    "href": "worldmapplaces.html",
-    "title": "A view on the cities that I already visited",
-    "section": "",
-    "text": "Now this is a leaflet of major cities that I visited:"
-  },
-  {
-    "objectID": "random_data_library/Germany_map_SHP/Germany_map.html",
-    "href": "random_data_library/Germany_map_SHP/Germany_map.html",
-    "title": "Germany map",
-    "section": "",
-    "text": "Some maps\n\n\n\n\n\nList of 97\n $ line                      : list()\n  ..- attr(*, \"class\")= chr [1:2] \"element_blank\" \"element\"\n $ rect                      : list()\n  ..- attr(*, \"class\")= chr [1:2] \"element_blank\" \"element\"\n $ text                      :List of 11\n  ..$ family       : chr \"\"\n  ..$ face         : chr \"plain\"\n  ..$ colour       : chr \"black\"\n  ..$ size         : num 11\n  ..$ hjust        : num 0.5\n  ..$ vjust        : num 0.5\n  ..$ angle        : num 0\n  ..$ lineheight   : num 0.9\n  ..$ margin       : 'margin' num [1:4] 0points 0points 0points 0points\n  .. ..- attr(*, \"unit\")= int 8\n  ..$ debug        : logi FALSE\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ title                     : NULL\n $ aspect.ratio              : NULL\n $ axis.title                : list()\n  ..- attr(*, \"class\")= chr [1:2] \"element_blank\" \"element\"\n $ axis.title.x              : NULL\n $ axis.title.x.top          : NULL\n $ axis.title.x.bottom       : NULL\n $ axis.title.y              : NULL\n $ axis.title.y.left         : NULL\n $ axis.title.y.right        : NULL\n $ axis.text                 : list()\n  ..- attr(*, \"class\")= chr [1:2] \"element_blank\" \"element\"\n $ axis.text.x               : NULL\n $ axis.text.x.top           : NULL\n $ axis.text.x.bottom        : NULL\n $ axis.text.y               : NULL\n $ axis.text.y.left          : NULL\n $ axis.text.y.right         : NULL\n $ axis.ticks                : NULL\n $ axis.ticks.x              : NULL\n $ axis.ticks.x.top          : NULL\n $ axis.ticks.x.bottom       : NULL\n $ axis.ticks.y              : NULL\n $ axis.ticks.y.left         : NULL\n $ axis.ticks.y.right        : NULL\n $ axis.ticks.length         : 'simpleUnit' num 0points\n  ..- attr(*, \"unit\")= int 8\n $ axis.ticks.length.x       : NULL\n $ axis.ticks.length.x.top   : NULL\n $ axis.ticks.length.x.bottom: NULL\n $ axis.ticks.length.y       : NULL\n $ axis.ticks.length.y.left  : NULL\n $ axis.ticks.length.y.right : NULL\n $ axis.line                 : NULL\n $ axis.line.x               : NULL\n $ axis.line.x.top           : NULL\n $ axis.line.x.bottom        : NULL\n $ axis.line.y               : NULL\n $ axis.line.y.left          : NULL\n $ axis.line.y.right         : NULL\n $ legend.background         : NULL\n $ legend.margin             : NULL\n $ legend.spacing            : NULL\n $ legend.spacing.x          : NULL\n $ legend.spacing.y          : NULL\n $ legend.key                : NULL\n $ legend.key.size           : 'simpleUnit' num 1.2lines\n  ..- attr(*, \"unit\")= int 3\n $ legend.key.height         : NULL\n $ legend.key.width          : NULL\n $ legend.text               :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : 'rel' num 0.8\n  ..$ hjust        : NULL\n  ..$ vjust        : NULL\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : NULL\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ legend.text.align         : NULL\n $ legend.title              :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : NULL\n  ..$ hjust        : num 0\n  ..$ vjust        : NULL\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : NULL\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ legend.title.align        : NULL\n $ legend.position           : chr \"right\"\n $ legend.direction          : NULL\n $ legend.justification      : NULL\n $ legend.box                : NULL\n $ legend.box.just           : NULL\n $ legend.box.margin         : NULL\n $ legend.box.background     : NULL\n $ legend.box.spacing        : NULL\n $ panel.background          : NULL\n $ panel.border              : NULL\n $ panel.spacing             : 'simpleUnit' num 5.5points\n  ..- attr(*, \"unit\")= int 8\n $ panel.spacing.x           : NULL\n $ panel.spacing.y           : NULL\n $ panel.grid                : NULL\n $ panel.grid.major          : NULL\n $ panel.grid.minor          : NULL\n $ panel.grid.major.x        : NULL\n $ panel.grid.major.y        : NULL\n $ panel.grid.minor.x        : NULL\n $ panel.grid.minor.y        : NULL\n $ panel.ontop               : logi FALSE\n $ plot.background           : NULL\n $ plot.title                :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : 'rel' num 1.2\n  ..$ hjust        : num 0\n  ..$ vjust        : num 1\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : 'margin' num [1:4] 5.5points 0points 0points 0points\n  .. ..- attr(*, \"unit\")= int 8\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ plot.title.position       : chr \"panel\"\n $ plot.subtitle             :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : NULL\n  ..$ hjust        : num 0\n  ..$ vjust        : num 1\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : 'margin' num [1:4] 5.5points 0points 0points 0points\n  .. ..- attr(*, \"unit\")= int 8\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ plot.caption              :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : 'rel' num 0.8\n  ..$ hjust        : num 1\n  ..$ vjust        : num 1\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : 'margin' num [1:4] 5.5points 0points 0points 0points\n  .. ..- attr(*, \"unit\")= int 8\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ plot.caption.position     : chr \"panel\"\n $ plot.tag                  :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : 'rel' num 1.2\n  ..$ hjust        : num 0.5\n  ..$ vjust        : num 0.5\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : NULL\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ plot.tag.position         : chr \"topleft\"\n $ plot.margin               : 'simpleUnit' num [1:4] 0lines 0lines 0lines 0lines\n  ..- attr(*, \"unit\")= int 3\n $ strip.background          : NULL\n $ strip.background.x        : NULL\n $ strip.background.y        : NULL\n $ strip.clip                : chr \"inherit\"\n $ strip.placement           : NULL\n $ strip.text                :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : 'rel' num 0.8\n  ..$ hjust        : NULL\n  ..$ vjust        : NULL\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : NULL\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ strip.text.x              : NULL\n $ strip.text.x.bottom       : NULL\n $ strip.text.x.top          : NULL\n $ strip.text.y              : NULL\n $ strip.text.y.left         : NULL\n $ strip.text.y.right        : NULL\n $ strip.switch.pad.grid     : 'simpleUnit' num 2.75points\n  ..- attr(*, \"unit\")= int 8\n $ strip.switch.pad.wrap     : 'simpleUnit' num 2.75points\n  ..- attr(*, \"unit\")= int 8\n - attr(*, \"class\")= chr [1:2] \"theme\" \"gg\"\n - attr(*, \"complete\")= logi TRUE\n - attr(*, \"validate\")= logi TRUE\n\n\n```"
-  },
-  {
-    "objectID": "random_data_library/First visualization_Georgia/First visualization_Georgia.html",
-    "href": "random_data_library/First visualization_Georgia/First visualization_Georgia.html",
-    "title": "A testing script for map visualization",
-    "section": "",
-    "text": "testing\n\n\n\n\n\n\n\n\n\n\n&lt;ScaleContinuous&gt;\n Range:  \n Limits:    0 --    1\n\n\nList of 97\n $ line                      : list()\n  ..- attr(*, \"class\")= chr [1:2] \"element_blank\" \"element\"\n $ rect                      : list()\n  ..- attr(*, \"class\")= chr [1:2] \"element_blank\" \"element\"\n $ text                      :List of 11\n  ..$ family       : chr \"\"\n  ..$ face         : chr \"plain\"\n  ..$ colour       : chr \"black\"\n  ..$ size         : num 11\n  ..$ hjust        : num 0.5\n  ..$ vjust        : num 0.5\n  ..$ angle        : num 0\n  ..$ lineheight   : num 0.9\n  ..$ margin       : 'margin' num [1:4] 0points 0points 0points 0points\n  .. ..- attr(*, \"unit\")= int 8\n  ..$ debug        : logi FALSE\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ title                     : NULL\n $ aspect.ratio              : NULL\n $ axis.title                : list()\n  ..- attr(*, \"class\")= chr [1:2] \"element_blank\" \"element\"\n $ axis.title.x              : NULL\n $ axis.title.x.top          : NULL\n $ axis.title.x.bottom       : NULL\n $ axis.title.y              : NULL\n $ axis.title.y.left         : NULL\n $ axis.title.y.right        : NULL\n $ axis.text                 : list()\n  ..- attr(*, \"class\")= chr [1:2] \"element_blank\" \"element\"\n $ axis.text.x               : NULL\n $ axis.text.x.top           : NULL\n $ axis.text.x.bottom        : NULL\n $ axis.text.y               : NULL\n $ axis.text.y.left          : NULL\n $ axis.text.y.right         : NULL\n $ axis.ticks                : NULL\n $ axis.ticks.x              : NULL\n $ axis.ticks.x.top          : NULL\n $ axis.ticks.x.bottom       : NULL\n $ axis.ticks.y              : NULL\n $ axis.ticks.y.left         : NULL\n $ axis.ticks.y.right        : NULL\n $ axis.ticks.length         : 'simpleUnit' num 0points\n  ..- attr(*, \"unit\")= int 8\n $ axis.ticks.length.x       : NULL\n $ axis.ticks.length.x.top   : NULL\n $ axis.ticks.length.x.bottom: NULL\n $ axis.ticks.length.y       : NULL\n $ axis.ticks.length.y.left  : NULL\n $ axis.ticks.length.y.right : NULL\n $ axis.line                 : NULL\n $ axis.line.x               : NULL\n $ axis.line.x.top           : NULL\n $ axis.line.x.bottom        : NULL\n $ axis.line.y               : NULL\n $ axis.line.y.left          : NULL\n $ axis.line.y.right         : NULL\n $ legend.background         : NULL\n $ legend.margin             : NULL\n $ legend.spacing            : NULL\n $ legend.spacing.x          : NULL\n $ legend.spacing.y          : NULL\n $ legend.key                : NULL\n $ legend.key.size           : 'simpleUnit' num 1.2lines\n  ..- attr(*, \"unit\")= int 3\n $ legend.key.height         : NULL\n $ legend.key.width          : NULL\n $ legend.text               :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : 'rel' num 0.8\n  ..$ hjust        : NULL\n  ..$ vjust        : NULL\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : NULL\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ legend.text.align         : NULL\n $ legend.title              :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : NULL\n  ..$ hjust        : num 0\n  ..$ vjust        : NULL\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : NULL\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ legend.title.align        : NULL\n $ legend.position           : chr \"right\"\n $ legend.direction          : NULL\n $ legend.justification      : NULL\n $ legend.box                : NULL\n $ legend.box.just           : NULL\n $ legend.box.margin         : NULL\n $ legend.box.background     : NULL\n $ legend.box.spacing        : NULL\n $ panel.background          : NULL\n $ panel.border              : NULL\n $ panel.spacing             : 'simpleUnit' num 5.5points\n  ..- attr(*, \"unit\")= int 8\n $ panel.spacing.x           : NULL\n $ panel.spacing.y           : NULL\n $ panel.grid                : NULL\n $ panel.grid.major          : NULL\n $ panel.grid.minor          : NULL\n $ panel.grid.major.x        : NULL\n $ panel.grid.major.y        : NULL\n $ panel.grid.minor.x        : NULL\n $ panel.grid.minor.y        : NULL\n $ panel.ontop               : logi FALSE\n $ plot.background           : NULL\n $ plot.title                :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : 'rel' num 1.2\n  ..$ hjust        : num 0\n  ..$ vjust        : num 1\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : 'margin' num [1:4] 5.5points 0points 0points 0points\n  .. ..- attr(*, \"unit\")= int 8\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ plot.title.position       : chr \"panel\"\n $ plot.subtitle             :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : NULL\n  ..$ hjust        : num 0\n  ..$ vjust        : num 1\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : 'margin' num [1:4] 5.5points 0points 0points 0points\n  .. ..- attr(*, \"unit\")= int 8\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ plot.caption              :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : 'rel' num 0.8\n  ..$ hjust        : num 1\n  ..$ vjust        : num 1\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : 'margin' num [1:4] 5.5points 0points 0points 0points\n  .. ..- attr(*, \"unit\")= int 8\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ plot.caption.position     : chr \"panel\"\n $ plot.tag                  :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : 'rel' num 1.2\n  ..$ hjust        : num 0.5\n  ..$ vjust        : num 0.5\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : NULL\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ plot.tag.position         : chr \"topleft\"\n $ plot.margin               : 'simpleUnit' num [1:4] 0lines 0lines 0lines 0lines\n  ..- attr(*, \"unit\")= int 3\n $ strip.background          : NULL\n $ strip.background.x        : NULL\n $ strip.background.y        : NULL\n $ strip.clip                : chr \"inherit\"\n $ strip.placement           : NULL\n $ strip.text                :List of 11\n  ..$ family       : NULL\n  ..$ face         : NULL\n  ..$ colour       : NULL\n  ..$ size         : 'rel' num 0.8\n  ..$ hjust        : NULL\n  ..$ vjust        : NULL\n  ..$ angle        : NULL\n  ..$ lineheight   : NULL\n  ..$ margin       : NULL\n  ..$ debug        : NULL\n  ..$ inherit.blank: logi TRUE\n  ..- attr(*, \"class\")= chr [1:2] \"element_text\" \"element\"\n $ strip.text.x              : NULL\n $ strip.text.x.bottom       : NULL\n $ strip.text.x.top          : NULL\n $ strip.text.y              : NULL\n $ strip.text.y.left         : NULL\n $ strip.text.y.right        : NULL\n $ strip.switch.pad.grid     : 'simpleUnit' num 2.75points\n  ..- attr(*, \"unit\")= int 8\n $ strip.switch.pad.wrap     : 'simpleUnit' num 2.75points\n  ..- attr(*, \"unit\")= int 8\n - attr(*, \"class\")= chr [1:2] \"theme\" \"gg\"\n - attr(*, \"complete\")= logi TRUE\n - attr(*, \"validate\")= logi TRUE\n\n\n\nggplot() + \n  geom_sf(data = world_map, \n          aes(fill = life_expectancy),\n          size = 0.25) +\n  coord_sf(crs = st_crs(\"ESRI:54030\")) +  # Robinson\n  scale_fill_gradient(low = \"grey100\", high = \"grey10\") +\n  labs(fill = \"Life expectancy\") +\n  theme_void() +\n  theme(legend.position = \"bottom\")"
-  },
-  {
-    "objectID": "random_data_library/RD_per_million/RD_per_million.html",
-    "href": "random_data_library/RD_per_million/RD_per_million.html",
-    "title": "R&D Researchers per 1 million citizens",
-    "section": "",
-    "text": "Some maps"
-  },
-  {
-    "objectID": "posts/2023_Ibiza/2023_Ibiza.html",
-    "href": "posts/2023_Ibiza/2023_Ibiza.html",
-    "title": "Ibiza 2023",
-    "section": "",
-    "text": "Ibiza 2023"
-  },
-  {
-    "objectID": "posts/PT1/PT1.html",
-    "href": "posts/PT1/PT1.html",
-    "title": "1st in Portugal",
-    "section": "",
-    "text": "Portugal 2020 (also known as shark season)\nFirst step was driving to Hamburg via train. We took a night flight from Hamburg airport to Porto before taking a Renault Clio as a rental car. Back in 2020, there was still the possiblity to get cheap rental cars in September. We paid roughly 210 Euros for two weeks.\n\n\n\nPeniche\n\n\n\n\n\nObidos sunset in September 2020\n\n\n\n#| echo: false\n#| output: false\n#| include: false\n#| \nm &lt;- leaflet() %&gt;%\n  addTiles() %&gt;%\n  setView(lng = 0, lat = 51, zoom = 4)%&gt;%\n  addMarkers(lng = -8, lat = 39.5, popup = \"Portugal\")\n\n\nm"
-  },
-  {
-    "objectID": "posts/2020_PT1/PT1.html",
-    "href": "posts/2020_PT1/PT1.html",
-    "title": "1st in Portugal",
-    "section": "",
-    "text": "Portugal 2020 (also known as shark season)\nFirst step was driving to Hamburg via train. We took a night flight from Hamburg airport to Porto before taking a Renault Clio as a rental car. Back in 2020, there was still the possebility to get cheap rental cars in September. We paid roughly 210 Euros for two weeks."
+    "text": "Interesting information with external sources:\n\n\n\n\n  \n\n\n\n\nMiami- the dream?\n\n\n\n\n\nMiami is a mytery to me\n\n\n\n\n\n\n2024-01-05\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nFlorida keys USA scenic drive\n\n\n\n\n\nThe Florida Keys are a coral cay archipelago located off the southern coast of Florida, forming the southernmost part of the continental United States.\n\n\n\n\n\n\n2024-01-04\n\n\nJNW\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2000_Mallorcakid/mallorcakid.html",
@@ -133,32 +119,11 @@
     "text": "Mallorca\nAs a kid, I was once in Mallorca. I do not have much memory about it.\n\n\n\nMallorca"
   },
   {
-    "objectID": "posts/2018_UK1/UK1.html",
-    "href": "posts/2018_UK1/UK1.html",
-    "title": "UK Exchange Trip 1",
-    "section": "",
-    "text": "As a young student in UK\nAs a teenager of 13 or something, I did a few exchange weeks in the UK."
-  },
-  {
     "objectID": "posts/2020_Duisburg/2020_Duisburg.html",
     "href": "posts/2020_Duisburg/2020_Duisburg.html",
     "title": "Duisburg Roadtrip 2020",
     "section": "",
     "text": "Duisburg 2020\nThis trip was very spontaneously. Super random. We got two bikes, took the Audi A6 and just booked a random AirBnB in the south of Duisburg city.\nHere are some of my favorite pictures:"
-  },
-  {
-    "objectID": "posts/2023_PT4/PT4.html",
-    "href": "posts/2023_PT4/PT4.html",
-    "title": "4th in Portugal",
-    "section": "",
-    "text": "Portugal 2023 - Fao and Lolita wedding\nIn 2023, it was again August that we visited Portugal. The month of the immigrants hit us hard. Portugal is full of people every August. The most prominent factor is school holidays in France."
-  },
-  {
-    "objectID": "posts/2021_PT2/PT2.html",
-    "href": "posts/2021_PT2/PT2.html",
-    "title": "2nd in Portugal",
-    "section": "",
-    "text": "Portugal 2021 (Family gathering+Peniche+)\nPenedo part:\n\n\n\nPenedo Water park\n\n\nPeniche part:\n    \nArrabida part:\n\n\n\nCabo Espichel\n\n\n\n\n\nPortinho da Arrabida\n\n\n\n\n\nQuinta vibes"
   },
   {
     "objectID": "posts/2021_NYC1/NYC1.html",
@@ -182,38 +147,31 @@
     "text": "A challenge day: A trip to Colmar and back\nBased on calculations from Google, one way is roughly 46km. This was my planned route:\n\n\n\nColmar on Google Maps\n\n\nI started by waking up at 6.30 in the morning by having a beautiful oatmeal breakfast with protein powder, nuts and some coconut powder followed by a small coffee to make me poop. All worked out!\nFirst stop: Tuniberg\n\n\n\nTuniberg\n\n\nSecond stop: The border France-Germany \nInteresting feature on French fields: Open silos \nThe arrival in Colmar: christmas market\n      \nOn the way back: A flat tire and goats laughing about me:\n\n\n\nLaughing goats"
   },
   {
-    "objectID": "external_material.html",
-    "href": "external_material.html",
-    "title": "Travel posts by Ned",
+    "objectID": "posts/2023_PT4/PT4.html",
+    "href": "posts/2023_PT4/PT4.html",
+    "title": "4th in Portugal",
     "section": "",
-    "text": "Interesting information with external sources:\n\n\n\n\n  \n\n\n\n\nMiami- the dream?\n\n\n\n\n\nMiami is a mytery to me\n\n\n\n\n\n\n2024-01-05\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nFlorida keys USA scenic drive\n\n\n\n\n\nThe Florida Keys are a coral cay archipelago located off the southern coast of Florida, forming the southernmost part of the continental United States.\n\n\n\n\n\n\n2024-01-04\n\n\nJNW\n\n\n\n\n\n\nNo matching items"
+    "text": "Portugal 2023 - Fao and Lolita wedding\nIn 2023, it was again August that we visited Portugal. The month of the immigrants hit us hard. Portugal is full of people every August. The most prominent factor is school holidays in France."
   },
   {
-    "objectID": "external_material/2024_01_04_Florida_keys/florida_keys.html",
-    "href": "external_material/2024_01_04_Florida_keys/florida_keys.html",
-    "title": "Florida keys USA scenic drive",
+    "objectID": "posts/2024_02_Paris/2024_02_Paris.html",
+    "href": "posts/2024_02_Paris/2024_02_Paris.html",
+    "title": "Nilius a first time in Paris / pre-valentins Paris",
     "section": "",
-    "text": "Florida Keys USA Scenic Drive - Islamorada to Key West via A1A Highway Road Trip from Wind Walk Travel videos\nCheck out this: https://www.youtube.com/watch?v=wFN_QaTw1Bo\n\n\n\nMy personal highlights:\n\n\n\n\n \n\n\nFigure 1: First highlight driving the keys"
+    "text": "A long weekend in Paris-France in February 2024\nParis is full of luxus consumerism and sweets, or did I miss something?\n       \n   \n   \nHere the same content as a video from my channel:"
   },
   {
-    "objectID": "external_material/2024_01_05_Miami/Miami.html",
-    "href": "external_material/2024_01_05_Miami/Miami.html",
-    "title": "Miami- the dream?",
+    "objectID": "random_data_library/Germany_map_SHP/Germany_map.html",
+    "href": "random_data_library/Germany_map_SHP/Germany_map.html",
+    "title": "Germany map",
     "section": "",
-    "text": "Miami is just stunning\nMiami is a major center and leader in finance, commerce, culture, arts, and international trade Miami’s metropolitan area is by far the largest urban economy in Florida, with a gross domestic product of $344.9 billion as of 2017 According to a 2018 UBS study of 77 world cities, Miami is the third-richest city in the U.S. and the third richest globally in purchasing power. Miami is a majority-minority city with a Hispanic and Latino population of 310,472, or 70.2 percent of the city’s population, as of 2020.\n\n\nMy personal highlights:\n      \n\n\nAdditional:\nCheck out this amazing drone video as well:"
+    "text": "Some maps"
   },
   {
-    "objectID": "posts/2022_PT3/PT3.html",
-    "href": "posts/2022_PT3/PT3.html",
-    "title": "3rd time in Portugal",
+    "objectID": "random_maps_library.html",
+    "href": "random_maps_library.html",
+    "title": "Random Maps library",
     "section": "",
-    "text": "Portugal 2022 (Barienrode-NYC)\nThis time, we decided to only stay in the North of PT. Luckily, we got nearly perfect weather conditions in the beginning of October 2022. Funny enough, the theme of that trip was all about the competitive landscape between Espanha and Portugal\n\n\n\nMiradouro de Santa Trega with view on river Minho\n\n\nIn the nationsleague, Portugal played against Spain in Braga. Unfortunenately, Portugal lost 0-1 to Spain \nAfter visiting Vigo, we visited Moncao….a small border village."
-  },
-  {
-    "objectID": "posts/2024_Belfort_2/Belfort_2.html",
-    "href": "posts/2024_Belfort_2/Belfort_2.html",
-    "title": "A second time in Belfort, France",
-    "section": "",
-    "text": "Belfort-France in January 2024"
+    "text": "Look for articles that might interest you:\n\nThe articles are ordered descending per year:\n\n\n\n\n  \n\n\n\n\nA testing script for map visualization\n\n\n\n\n\ntest with Andrew Heiss tutorial\n\n\n\n\n\n\n2023\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nGermany map\n\n\n\n\n\ntest\n\n\n\n\n\n\n2023\n\n\nJNW\n\n\n\n\n\n\n  \n\n\n\n\nR&D Researchers per 1 million citizens\n\n\n\n\n\ntest with Andrew Heiss tutorial\n\n\n\n\n\n\n2023\n\n\nJNW\n\n\n\n\n\n\nNo matching items"
   }
 ]

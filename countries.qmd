@@ -9,8 +9,6 @@ title-block-banner: true
 page-navigation: true
 ---
 
-
-
 ```{r}
 #| echo: false
 #| output: false
@@ -39,19 +37,6 @@ highlighted_countries <- c("Germany", "France", "United Kingdom", "Portugal", "S
 
 
 # Create the base world map plot
-world_map <- read_sf("C:/Users/WITTEJ09/OneDrive - Pfizer/Documents/Quarto/KarambolageInvesting/NedTravel/data/shapefiles/shapefiles/ne_110m_admin_0_countries/ne_110m_admin_0_countries.shp")
-
-world_map <- world_map %>% 
-  filter(ISO_A3 != "ATA")
-
-world_map$visited <- NA
-
-# Assuming you have a dataframe named world_map
-for (i in 1:nrow(world_map)) {
-  if (world_map$SOVEREIGNT[i] %in% highlighted_countries) {
-    world_map$visited[i] <- "yes"
-  } else {world_map$visited[i] <- "not yet"}
-}
 
 ```
 
@@ -60,14 +45,6 @@ This is a map of the countries that I already visited in my life:
 ```{r}
 #| echo: false
 # Display the map
-ggplot() + 
-  geom_sf(data = world_map, 
-          aes(fill = visited),
-          size = 0.25) +
-  coord_sf(crs = st_crs("ESRI:54030")) +  # Robinson+
-  labs(fill = "Visited") +
-  theme_void() +
-  theme(legend.position = "bottom")
 
 
 
