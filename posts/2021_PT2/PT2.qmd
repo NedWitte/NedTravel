@@ -7,21 +7,21 @@ image: Penedo_fun1.JPG
 format: html
 ---
 
-**Portugal 2021 (Family gathering+Peniche+)**
+**Portugal 2021 (Family gathering+Peniche)**
 
-[Penedo part:]{.underline}
+Penedo Part:
 
 ![Penedo Water park](Penedo_fun1.JPG)
 
-[Peniche part:]{.underline}
-
-![Peniche Superturbedo beach](Peniche_beach1.jpg) ![Peniche Side Beach](Peniche_beach2.jpg) ![Peniche House art](Peniche_house.jpg) ![Breakfast in Peniche](breakfast_peniche.jpg) ![Peniche Superturbedo beach](Peniche_beach1.jpg)
-
-[Arrabida part:]{.underline}
-
-![Cabo Espichel](cabo_espichel.png)
-
-![Portinho da Arrabida](portinho_da_arrabida.png)
 
 
-![Quinta vibes](quinta_vibes.png){fig-alt="A small cat protecting the quinta from mice"}
+
+
+
+Peniche Part:
+
+![Peniche Superturbedo beach](Peniche_beach1.jpg)
+![Peniche Side Beach](Peniche_beach2.jpg)
+![Peniche House art](Peniche_house.jpg)
+![Breakfast in Peniche](breakfast_peniche.jpg)
+![Peniche Superturbedo beach](Peniche_beach1.jpg)
