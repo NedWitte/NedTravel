@@ -2,7 +2,7 @@
 title: "Ibiza 2023"
 description: "30th birthday short trip"
 author: "JNW"
-date: "2023"
+date: "2023-09"
 image: Ibiza1.png
 ---
 
